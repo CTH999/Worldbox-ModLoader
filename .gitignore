@@ -16,3 +16,4 @@ resources/commit
 *.snk
 App.config
 constants/Setting.cs
+/.github/temporary
